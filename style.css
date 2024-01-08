@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+#img-1{
+    width: 100px;
+}
+td{
+    border : 1px solid black;
+}
