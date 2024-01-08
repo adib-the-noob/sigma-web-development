@@ -8,3 +8,11 @@ body{
 td{
     border : 1px solid black;
 }
+#form-1{
+    background-color: burlywood; 
+    padding: 15px;
+    border: 2px dashed white;
+}
+.sample-video{
+    height: 150px;
+}
