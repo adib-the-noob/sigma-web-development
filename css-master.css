@@ -1,0 +1,21 @@
+div{
+    background-color: aquamarine;
+}
+
+div p{
+    color: blue;
+}
+
+a:visited{
+    color: brown;
+}
+
+a:link{
+    color: green;
+}
+a:active{
+    background-color: red;
+}
+a:hover{
+    background-color: red;
+}
